@@ -61,14 +61,7 @@ This makes it easier to find models intended for:
 ## API Keys
 
 KunaalGPT can use API keys from the supported providers.
-
-API keys should be treated as private credentials.
-
-**Never commit your personal API keys to a public GitHub repository.**
-
-For local usage, configure your API keys through the application's settings.
-
-If you use a separate configuration file, make sure it is excluded from Git using `.gitignore`.
+uses those provider access by generating their api keys
 
 Example:
 
