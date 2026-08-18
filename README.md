@@ -1,5 +1,7 @@
 # KunaalGPT
 
+Access KunaalGPT : https://erkunal-shakya.github.io/KunaalGPT/
+
 KunaalGPT is a personal, lightweight AI chat interface that brings multiple AI providers and free/limited AI models into one simple ChatGPT-style interface.
 
 The project is built as a frontend-first application using HTML, CSS and JavaScript.
