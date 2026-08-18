@@ -48,7 +48,6 @@ KunaalGPT includes a dedicated **Coding Specific** model category.
 This makes it easier to find models intended for:
 
 - PHP
-- Magento 2 / Adobe Commerce
 - JavaScript
 - HTML / CSS
 - MySQL
@@ -80,3 +79,6 @@ Example:
 ```
 ## Screen Shorts
 
+![KunaalGPT Desktop](./Kunaal-GPT001.png)
+
+![KunaalGPT Chat Interface](./Kunaal-GPT002.png)
